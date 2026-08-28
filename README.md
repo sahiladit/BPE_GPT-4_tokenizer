@@ -8,3 +8,4 @@ Usecases :
   - Anthropic Claude: Segments text for prompt processing and generation.
 
 **Module 2 : Basic implementation of GPT-4 tokenizer**
+  - Without regex
